@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hwenyi-edge-tts-mcp-badge.png)](https://mseep.ai/app/hwenyi-edge-tts-mcp)
+
 # Edge TTS MCP
 
 A Model Context Protocol (MCP) server for Microsoft Edge Text-to-Speech service that allows AI assistants to read text aloud with natural-sounding voices.
